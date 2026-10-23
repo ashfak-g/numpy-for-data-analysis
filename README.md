@@ -7,6 +7,7 @@ Hands-on practice notebooks, real-world dataset exercises, and concise notes cov
 | Day | Folder | Topics Covered | Status |
 | :---: | :--- | :--- | :---: |
 | Day 01 | [01_array_fundamentals](./01_array_fundamentals/) | Loading CSV with `np.loadtxt`, array creation (`array`, `zeros`, `ones`, `full`, `arange`, `linspace`, `eye`), array attributes (`ndim`, `shape`, `size`, `dtype`, `nbytes`), memory optimization (`float32`, `int8`), Python List vs NumPy Array | Done |
+| Day 02 | [02_indexing_and_memory](./02_indexing_and_memory/) | 1D/2D/3D indexing & slicing, Views vs Copies (`.base`, `np.shares_memory`), Boolean masking (`&`, `\|`, `~`), Fancy indexing & `np.ix_`, `np.where`, `np.select`, `np.clip`, `np.argwhere` | Done |
 
 ## Requirements
 
